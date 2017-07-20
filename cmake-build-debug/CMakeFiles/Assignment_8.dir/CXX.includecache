@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brandon/Documents/Assignment 8/binary.h
+
+/Users/brandon/Documents/Assignment 8/binary1.cpp
+cstdio
+-
+binary.h
+/Users/brandon/Documents/Assignment 8/binary.h
+
+/Users/brandon/Documents/Assignment 8/binary2.cpp
+cstdio
+-
+binary.h
+/Users/brandon/Documents/Assignment 8/binary.h
+
+/Users/brandon/Documents/Assignment 8/huffman.cpp
+cstdio
+-
+iostream
+-
+iomanip
+-
+trace.h
+/Users/brandon/Documents/Assignment 8/trace.h
+tree.h
+/Users/brandon/Documents/Assignment 8/tree.h
+binary.h
+/Users/brandon/Documents/Assignment 8/binary.h
+pqueue.h
+/Users/brandon/Documents/Assignment 8/pqueue.h
+
+/Users/brandon/Documents/Assignment 8/pqueue.cpp
+pqueue.h
+/Users/brandon/Documents/Assignment 8/pqueue.h
+iostream
+-
+
+/Users/brandon/Documents/Assignment 8/pqueue.h
+cstdio
+-
+tree.h
+/Users/brandon/Documents/Assignment 8/tree.h
+
+/Users/brandon/Documents/Assignment 8/trace.cpp
+cstdio
+-
+iostream
+-
+iomanip
+-
+cstring
+-
+iomanip
+-
+cctype
+-
+trace.h
+/Users/brandon/Documents/Assignment 8/trace.h
+
+/Users/brandon/Documents/Assignment 8/trace.h
+tree.h
+/Users/brandon/Documents/Assignment 8/tree.h
+
+/Users/brandon/Documents/Assignment 8/tree.h
+
+/Users/brandon/Documents/Assignment 8/unhuffman.cpp
+cstdio
+-
+iostream
+-
+binary.h
+/Users/brandon/Documents/Assignment 8/binary.h
+trace.h
+/Users/brandon/Documents/Assignment 8/trace.h
+tree.h
+/Users/brandon/Documents/Assignment 8/tree.h
+
